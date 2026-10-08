@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 296 64" role="img" aria-labelledby="title desc">
+  <title id="title">WATT logo</title>
+  <desc id="desc">A lime electric waveform symbol paired with a custom geometric WATT wordmark.</desc>
+  <g fill="#D8FF3E">
+    <path d="M8 12h8l11 36 13-28 13 28 11-36h8" fill="none" stroke="#D8FF3E" stroke-width="8" stroke-linecap="square" stroke-linejoin="miter"/>
+    <path d="M4 8h12v12H4zM64 8h12v12H64z"/>
+  </g>
+  <g fill="#F2F4EC">
+    <path d="M94 14h11l7 27 8-20h8l8 20 7-27h11l-11 38h-11l-8-18-8 18h-11z"/>
+    <path fill-rule="evenodd" d="M158 52l15-38h13l15 38h-11l-3-8h-15l-3 8zm17-17h9l-4.5-13z"/>
+    <path d="M198 14h42v10h-15v28h-12V24h-15zM244 14h42v10h-15v28h-12V24h-15z"/>
+  </g>
+</svg>

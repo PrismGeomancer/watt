@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 64" role="img" aria-labelledby="title desc">
+  <title id="title">WATT symbol</title>
+  <desc id="desc">An angular electric waveform forming a symmetrical letter W.</desc>
+  <path d="M8 12h8l11 36 13-28 13 28 11-36h8" fill="none" stroke="#D8FF3E" stroke-width="8" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M4 8h12v12H4zM64 8h12v12H64z" fill="#D8FF3E"/>
+</svg>
